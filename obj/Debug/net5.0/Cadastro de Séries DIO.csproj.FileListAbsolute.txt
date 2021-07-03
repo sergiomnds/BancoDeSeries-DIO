@@ -1,0 +1,16 @@
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\bin\Debug\net5.0\Cadastro de Séries DIO.exe
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\bin\Debug\net5.0\Cadastro de Séries DIO.deps.json
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\bin\Debug\net5.0\Cadastro de Séries DIO.runtimeconfig.json
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\bin\Debug\net5.0\Cadastro de Séries DIO.runtimeconfig.dev.json
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\bin\Debug\net5.0\Cadastro de Séries DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\bin\Debug\net5.0\ref\Cadastro de Séries DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\bin\Debug\net5.0\Cadastro de Séries DIO.pdb
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.csproj.AssemblyReference.cache
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.AssemblyInfoInputs.cache
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.AssemblyInfo.cs
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.csproj.CoreCompileInputs.cache
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\ref\Cadastro de Séries DIO.dll
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.pdb
+D:\Gabriel\DIGITAL INNOVATION ONE\Cadastro de Séries DIO\obj\Debug\net5.0\Cadastro de Séries DIO.genruntimeconfig.cache
